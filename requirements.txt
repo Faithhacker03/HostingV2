@@ -1,0 +1,10 @@
+# requirements.txt
+
+# For the Telegram Bot functionality
+py-telegram-bot-api
+
+# For connecting to the PostgreSQL database
+psycopg2-binary
+
+# Helper for loading secret tokens from a .env file (for local testing)
+python-dotenv
